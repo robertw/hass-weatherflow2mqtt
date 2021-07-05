@@ -1,0 +1,80 @@
+{
+    "beaufort": {
+        "0": "Calma",
+        "1": "Viento suave",
+        "2": "Brisa ligera",
+        "3": "Brisa suave",
+        "4": "Brisa moderada",
+        "5": "Brisa fresca",
+        "6": "Brisa fuerte",
+        "7": "Viento moderado",
+        "8": "Viento fresco",
+        "9": "Viento fuerte",
+        "10": "Tormenta",
+        "11": "Tormenta fuerte",
+        "12": "Huracan"
+    },
+    "wind_dir": {
+        "N": "N",
+        "NNE": "NNE",
+        "NE": "NE",
+        "ENE": "ENE",
+        "E": "E",
+        "ESE": "ESE",
+        "SE": "SE",
+        "SSE": "SSE",
+        "S": "S",
+        "SSW": "SSO",
+        "SW": "SO",
+        "WSW": "OSO",
+        "W": "O",
+        "WNW": "ONO",
+        "NW": "NO",
+        "NNW": "NNO"
+    },
+    "trend": {
+        "falling": "En caida",
+        "rising": "En subida",
+        "steady": "Estable"
+    },
+    "dewpoint": {
+        "severely-high": "Severamente alta",
+        "miserable": "Miserable",
+        "oppressive": "Opresivo",
+        "uncomfortable": "Incomodo",
+        "ok-for-most": "Ok para la mayoria",
+        "comfortable": "Comfortable",
+        "very-comfortable": "Muy agradable",
+        "somewhat-dry": "Un poco seco",
+        "dry": "Seco",
+        "very-dry": "Muy seco",
+        "undefined": "Indefinido"
+    },
+    "temperature": {
+        "inferno": "Infierno",
+        "very-hot": "Muy caliente",
+        "hot": "Caliente",
+        "warm": "Un poco caliente",
+        "nice": "Agradable",
+        "cool": "Fresco",
+        "chilly": "Moderadamente frio",
+        "cold": "Frio",
+        "freezing": "Helado",
+        "fridged": "Congelado",
+        "undefined": "Indefinido"
+    },
+    "uv": {
+        "extreme": "Extremo",
+        "very-high": "Muy alto",
+        "high": "Alto",
+        "moderate": "Moderado",
+        "low": "Bajo",
+        "none": "Nada"
+    },
+    "precip_type": {
+        "none": "Nada",
+        "rain": "Lluvia",
+        "hail": "Granizo",
+        "heavy-rain": "Luvia fuerte"
+    }
+}
